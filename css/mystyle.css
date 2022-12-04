@@ -1,0 +1,52 @@
+body{
+  
+  font-size: 27px;
+  
+    background-color: rgba(241, 35, 35, 0.531);
+  color: white;
+    
+ /* tüm html dosyalarını tek 
+ bir css dosyası ile idare etmek
+  mümkündür*/
+}
+
+.name{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(5, 32, 131);
+  background-color: beige;
+  font-size: auto;
+  font-style: italic;
+  border-style: solid;
+  border-color: orange;
+  border-radius: 15px;
+  text-align: center;  
+  display: inline-block;
+  padding: 8px;
+}
+
+ /*.name2{
+  font-style: italic;
+  color: blue;
+
+} */
+
+
+.image{
+  border-style: solid;
+  border-color: orange;
+  border-radius: 15px;
+  text-align: center;
+  margin: 20px;
+
+}
+
+.copy{
+  font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+  font-style: normal !important;
+  font-size: 13px;
+
+}
+ .Pree{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+ }
