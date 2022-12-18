@@ -35,6 +35,8 @@ body{
   width: 168px;
 }
 .image{
+  width="600";
+   height="300";
   border-style: solid;
   border-color: orange;
   border-radius: 50px;
