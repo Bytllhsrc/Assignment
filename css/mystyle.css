@@ -68,3 +68,10 @@ body{
     font-family: 'Times New Roman', Times, serif;
     font-size: 23px;
  }
+ .block text{
+  align-items: center;
+  padding: 2rem;
+  
+
+
+ }
