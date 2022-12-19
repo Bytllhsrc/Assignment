@@ -35,8 +35,6 @@ body{
   width: 168px;
 }
 .image{
-  width="600";
-   height="300";
   border-style: solid;
   border-color: orange;
   border-radius: 50px;
@@ -68,9 +66,10 @@ body{
     font-family: 'Times New Roman', Times, serif;
     font-size: 23px;
  }
- .block text{
+ .block{
   align-items: center;
-  padding: 2rem;
+  padding: 1rem;
+  margin-top: 7px;
   
 
 
