@@ -34,7 +34,14 @@ body{
   margin-top: 10px;
   width: 168px;
 }
-.image{
+.images{
+  list-style-type:none;
+  
+ }
+ .images a{
+  text-decoration: none;
+ }
+ .images img{
   border-style: solid;
   border-color: orange;
   border-radius: 50px;
@@ -42,7 +49,8 @@ body{
   margin: 20px;
   width: 600px;
   height: 300px;
-}
+ }
+
 .audio{
   border-style: solid;
   border-color: orange;
@@ -74,3 +82,8 @@ body{
 
 
  }
+
+ li h3{
+  color:orange
+ } 
+
